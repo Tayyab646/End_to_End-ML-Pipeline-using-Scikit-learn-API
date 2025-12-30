@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is **Task 2: End-to-End ML Pipeline with Scikit-learn Pipeline API**.
+This project is **End-to-End ML Pipeline with Scikit-learn Pipeline API**.
 The purpose of this project is to build a **reusable and production-ready machine learning pipeline** for predicting **customer churn**.
 
 The pipeline handles data preprocessing, model training, hyperparameter tuning, and model export in a clean and automated way.
